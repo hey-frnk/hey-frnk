@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Title image](/blog/title.jpg)
+![Title image](https://github.com/hey-frnk/hey-frnk/raw/master/blog/title.jpg)
 
 Frank is the creative mind behind [The VFD Collective](https://www.thevfdcollective.com/), and founded it to make the world [a little more colorful](https://www.thevfdcollective.com/fluorescence). He writes [electronics guides](https://www.instructables.com/member/Kesselwagen/), [open source, free software](http://github.com/hey-frnk) and about what he likes most - traveling, music, good coffee and sustainability - in his [blog posts](https://www.thevfdcollective.com/home).
 
