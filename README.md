@@ -2,7 +2,7 @@
 
 Frank is the creative mind behind [The VFD Collective](https://www.thevfdcollective.com/), and founded it to make the world [a little more colorful](https://www.thevfdcollective.com/fluorescence). He writes [electronics guides](https://www.instructables.com/member/Kesselwagen/), [open source, free software](http://github.com/hey-frnk) and about what he likes most - traveling, music, good coffee and sustainability - in his [blog posts](https://www.thevfdcollective.com/home).
 
-After his engineering studies in Berlin, Frank has found a new home in the Swiss alps. Here, he continues his engineering studies at ETH Zurich and while [taking you on adventures](https://www.instagram.com/am386/) in the mountains. [Support and read more about Frank >](https://www.thevfdcollective.com/home)
+After his engineering studies in Berlin, Frank has found a new home in the Swiss alps. Here, he continues his engineering studies at ETH Zurich and while [taking you on adventures](https://www.instagram.com/am386/) in the mountains. [Support and read more about Frank >](https://www.thevfdcollective.com/authors/frank)
 
 <!--
 **hey-frnk/hey-frnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
